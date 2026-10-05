@@ -1,0 +1,51 @@
+[
+  {
+    "file": "modello/README_originale.md",
+    "bytes": 2072,
+    "sha256": "c7354c6714bae730d03ae833921ab8edf9270289dea7dbce155a0152203ac6e3",
+    "source": "https://huggingface.co/DavidHanSZ/pointnet-modelnet40/resolve/9860511f0f11ed0cc69476a594daff56aad01bdd/README.md",
+    "revision": "9860511f0f11ed0cc69476a594daff56aad01bdd"
+  },
+  {
+    "file": "modello/config.json",
+    "bytes": 262,
+    "sha256": "a628ec64f5c110372745ae297c2d1aa7e9fa779d00a6a506474cd6090510d01d",
+    "source": "https://huggingface.co/DavidHanSZ/pointnet-modelnet40/resolve/9860511f0f11ed0cc69476a594daff56aad01bdd/config.json",
+    "revision": "9860511f0f11ed0cc69476a594daff56aad01bdd"
+  },
+  {
+    "file": "modello/pointnet_modelnet40.py",
+    "bytes": 13859,
+    "sha256": "9be05bdddf2eb857c879747a9a96ef4bd34eac08530d3d6c2dfb33c89ebf44db",
+    "source": "https://huggingface.co/DavidHanSZ/pointnet-modelnet40/resolve/9860511f0f11ed0cc69476a594daff56aad01bdd/pointnet_modelnet40.py",
+    "revision": "9860511f0f11ed0cc69476a594daff56aad01bdd"
+  },
+  {
+    "file": "modello/pytorch_model.bin",
+    "bytes": 14008407,
+    "sha256": "2a36cb6b2d38d116d0c61526be2ef01295c239e1c66e2e7df4e3c630d35bf7f0",
+    "source": "https://huggingface.co/DavidHanSZ/pointnet-modelnet40/resolve/9860511f0f11ed0cc69476a594daff56aad01bdd/pytorch_model.bin",
+    "revision": "9860511f0f11ed0cc69476a594daff56aad01bdd"
+  },
+  {
+    "file": "dati/README_originale.md",
+    "bytes": 480,
+    "sha256": "a72f8adaa40c6a143d2a5992ec6023f935cc0cc2768e5c5af2a73d025ea5ebfc",
+    "source": "https://huggingface.co/datasets/jxie/modelnet40-2048/resolve/5ae9a4a64ed57c5340517862ab0b0bf5d8a99831/README.md",
+    "revision": "5ae9a4a64ed57c5340517862ab0b0bf5d8a99831"
+  },
+  {
+    "file": "dati/test.parquet",
+    "bytes": 59313912,
+    "sha256": "ae364f886bf1032df15b81f9829c0c20031c5e5e259585b721e2969ed04d6a1d",
+    "source": "https://huggingface.co/datasets/jxie/modelnet40-2048/resolve/5ae9a4a64ed57c5340517862ab0b0bf5d8a99831/data/test-00000-of-00001-baa2ae7c6a5df7e0.parquet",
+    "revision": "5ae9a4a64ed57c5340517862ab0b0bf5d8a99831"
+  },
+  {
+    "file": "dati/train.parquet",
+    "bytes": 237093619,
+    "sha256": "3fb005b7862b134deeef42ba65f193e6ec2255d787dd60143410824e1406d027",
+    "source": "https://huggingface.co/datasets/jxie/modelnet40-2048/resolve/5ae9a4a64ed57c5340517862ab0b0bf5d8a99831/data/train-00000-of-00001-4fece5076596e98a.parquet",
+    "revision": "5ae9a4a64ed57c5340517862ab0b0bf5d8a99831"
+  }
+]

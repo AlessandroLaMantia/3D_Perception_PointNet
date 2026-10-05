@@ -1,0 +1,2 @@
+shots,seed,seconds,accuracy,horse_recall,horse_precision,old_accuracy,old_false_horse_rate,macro_accuracy
+1,11,4.099062099994626,0.7547619047619047,0.35,0.5384615384615384,0.775,0.015,0.7646341463414633

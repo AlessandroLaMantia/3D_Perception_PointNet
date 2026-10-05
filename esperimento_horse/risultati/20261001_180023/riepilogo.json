@@ -1,0 +1,20 @@
+[
+  {
+    "shots": 1,
+    "metric": "horse_recall",
+    "mean_percent": 20.0,
+    "std_percent": 0.0
+  },
+  {
+    "shots": 1,
+    "metric": "old_accuracy",
+    "mean_percent": 77.5,
+    "std_percent": 0.0
+  },
+  {
+    "shots": 1,
+    "metric": "accuracy",
+    "mean_percent": 71.11111111111111,
+    "std_percent": 0.0
+  }
+]

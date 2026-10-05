@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.part
+
+# File generati e configurazione locale
+*.pyc
+*.log
+.vscode/
+.env
+.streamlit/secrets.toml
+
+# Dataset scaricabili con gli script del progetto; i metadati restano inclusi
+dati/*.parquet
+esperimento_horse/dati/*.npy

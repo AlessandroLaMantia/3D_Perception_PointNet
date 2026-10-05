@@ -1,0 +1,11 @@
+{
+  "architectures": [
+    "PointNetClassification"
+  ],
+  "model_type": "pointnet",
+  "num_classes": 40,
+  "num_points": 1024,
+  "dropout": 0.3,
+  "paper": "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation",
+  "arxiv": "1612.00593"
+}

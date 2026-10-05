@@ -1,0 +1,2 @@
+# Dipendenze principali gia presenti nel progetto.
+trimesh==5.1.0

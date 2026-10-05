@@ -1,0 +1,602 @@
+[
+  {
+    "id": "c0be8d9d027b44b29da98baa937e1ca9",
+    "file": "c0be8d9d027b44b29da98baa937e1ca9.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-034/c0be8d9d027b44b29da98baa937e1ca9.glb",
+    "mesh_sha256": "a700ce78e6f9713c6bed38c00d0de89fec177666fe08148828576b15324df961",
+    "points_sha256": "9d23b65a8b9a16dbb3a0b3a3900070cab45e9c5c6ecc1f5144a2424df3ceb970",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "81cd003c9464476bbb6caa756559d8ae",
+    "file": "81cd003c9464476bbb6caa756559d8ae.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-108/81cd003c9464476bbb6caa756559d8ae.glb",
+    "mesh_sha256": "dfc93a9ba8dbe76a41dc7153e2108a505b04aeacc55fa4717ffdb945c4410309",
+    "points_sha256": "f2ff7e2c745128afa58af99593c29d9ab89aaa6c9ae5eb8d711507ac1f657daa",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "40e754e143eb42188d50630e7f16641a",
+    "file": "40e754e143eb42188d50630e7f16641a.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-151/40e754e143eb42188d50630e7f16641a.glb",
+    "mesh_sha256": "d53e5f310138655073a54ec45574865e0bb407252e3591482ee53fc9233f5166",
+    "points_sha256": "24d11add3f4088789f30bb10bdb07de31179415957aa52a23ee7f56ba281c883",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "6cd4c51f23fe47049b78fdf1de5c8c90",
+    "file": "6cd4c51f23fe47049b78fdf1de5c8c90.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-004/6cd4c51f23fe47049b78fdf1de5c8c90.glb",
+    "mesh_sha256": "044797935572af07502055c981c641bd6731723056b8d1e0054ec4672ea85054",
+    "points_sha256": "a74597cfa5ce92c3a76a3e28e901e9262ca2245a57d68e9733cbc8e3508c5a7e",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "66f7b46d429748db81cf07ab22663874",
+    "file": "66f7b46d429748db81cf07ab22663874.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-084/66f7b46d429748db81cf07ab22663874.glb",
+    "mesh_sha256": "e107df697383e201cb810e880dc6b2f1c392d0df7a131744daaea3ce30010715",
+    "points_sha256": "b528d7d46a5f0bf2490112d3c6f86f3445ba9762f207c18cf8059365edff32ed",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "534540122bb84605bd21edf9338f10d6",
+    "file": "534540122bb84605bd21edf9338f10d6.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-080/534540122bb84605bd21edf9338f10d6.glb",
+    "mesh_sha256": "6af24dfddf40d9430dba5fcc99d8ede906a3df1ff53aea1bf78277adc143e981",
+    "points_sha256": "f98c8774c305f6fc2a7d16fb16f51ace058e91f933e4ced194669ab9034ba7cc",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "c93e5d4f14954e959eafb91ffbe6087d",
+    "file": "c93e5d4f14954e959eafb91ffbe6087d.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-133/c93e5d4f14954e959eafb91ffbe6087d.glb",
+    "mesh_sha256": "6117f384034b234af150f04a72082b12e0589f45394ab9b2a9e76cdcfb7d1c7e",
+    "points_sha256": "9ed975af856c22830bc4f4b4663b57cb84eb78bd9b8c9aa8225f1ae523f971b0",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "367a584baf9145f0b554e655722ac0be",
+    "file": "367a584baf9145f0b554e655722ac0be.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-148/367a584baf9145f0b554e655722ac0be.glb",
+    "mesh_sha256": "7f7f030794aacaeddf6acffca4044228e06f270be6d164e82c7d1cf52d6aa35b",
+    "points_sha256": "4ddb8097cab2702329d144ef52d51f53986004c8c892386669784ca98c00454c",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "33182480373c4c12a120b45d2d612155",
+    "file": "33182480373c4c12a120b45d2d612155.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-042/33182480373c4c12a120b45d2d612155.glb",
+    "mesh_sha256": "d6edb40d8f434216cae772b5bcf51b2154ce902070ec66f3dc708b2beade3742",
+    "points_sha256": "a256e2b89812fd042c72f082682fc983b08dacad427817f571e602f590bb7c88",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "8f4c5808e25648a9b78a2ea39f7d271a",
+    "file": "8f4c5808e25648a9b78a2ea39f7d271a.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-008/8f4c5808e25648a9b78a2ea39f7d271a.glb",
+    "mesh_sha256": "319074161018eef13e69267261c8152b9fa38bb599ce1b9b777de04f6f5155fd",
+    "points_sha256": "377bf634d01cbe544b412b6bba9e467f3515643fad6129a88c935a24226e70c6",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "810f897e3d264f7a8daa4e047b40582a",
+    "file": "810f897e3d264f7a8daa4e047b40582a.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-097/810f897e3d264f7a8daa4e047b40582a.glb",
+    "mesh_sha256": "32d4d0e90106c189bc653e1d729d9e3dbbc2f40f9bb80a45407fc8eb2f7e501a",
+    "points_sha256": "c75c84d85dd817ea59d578c82c1b92ea4a261487d88155decdff52bf93f1abfc",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "edac81a42fa94e1cb6031337b8851999",
+    "file": "edac81a42fa94e1cb6031337b8851999.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-046/edac81a42fa94e1cb6031337b8851999.glb",
+    "mesh_sha256": "17a484ffd16f97fc877530ac08ed39ba9a194eb092f628f0dd7d2606a463279a",
+    "points_sha256": "52cc1d3f398f9137b00664edcba2e6f927132de68c2d3280e7676bb531f8c5fa",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "67b2639dfdd345a184817670f932dc47",
+    "file": "67b2639dfdd345a184817670f932dc47.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-016/67b2639dfdd345a184817670f932dc47.glb",
+    "mesh_sha256": "be8fbda7beb2fcee64be49404bccf69a1fc722289ec5cd18ac23cf23d448dd58",
+    "points_sha256": "f4ada1aa43c4a80d4c80d2fe758e70827010de5515d267d3d721a328d5600bd2",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "ea6789e450894b5da003051cf4ca19ab",
+    "file": "ea6789e450894b5da003051cf4ca19ab.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-034/ea6789e450894b5da003051cf4ca19ab.glb",
+    "mesh_sha256": "0b1c232647a2e17f103f7fa6e46753679d6890d7ff02422ee1a94989964802c7",
+    "points_sha256": "63430a0f92f316fdaea16728c2a60799c4a38ff0dc25aa6c3e4a6e7929181e92",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "7b3e7c7d0220479fb392a9a02a73ad11",
+    "file": "7b3e7c7d0220479fb392a9a02a73ad11.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-044/7b3e7c7d0220479fb392a9a02a73ad11.glb",
+    "mesh_sha256": "221230bbc23f724b6c993e3fd6cf76900832393875b16ef00542b1087b230bfe",
+    "points_sha256": "4c2a021532d73ea0834a4835025d6ba4927e1686431a868275eafb878f8f1a38",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "37c92ec9ec42449d990636d693b90bba",
+    "file": "37c92ec9ec42449d990636d693b90bba.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-136/37c92ec9ec42449d990636d693b90bba.glb",
+    "mesh_sha256": "f9a01dbe1fe0c2e96f16d87523929702c951f3cfe0b1c7c475d50aa06e68b374",
+    "points_sha256": "6a416c0ab0e2cdb9560f62c7a91bef0e1de88fb750628aa679d12c08d040ce4b",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "bf1a64c7e3fc48e6a2d8c23277b56434",
+    "file": "bf1a64c7e3fc48e6a2d8c23277b56434.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-153/bf1a64c7e3fc48e6a2d8c23277b56434.glb",
+    "mesh_sha256": "7ffda62c2c3c00fd4d26d3a90eaea251c8f0a830455960b7aaf03203b8410652",
+    "points_sha256": "879b857f5a8edc5274ca28debdee57e80da342b0bb4c08296f1516cfae21ed88",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "0995712a05a64d5b9b41ba3bda9da63a",
+    "file": "0995712a05a64d5b9b41ba3bda9da63a.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-140/0995712a05a64d5b9b41ba3bda9da63a.glb",
+    "mesh_sha256": "978a794cc9f6c4973bb952392f1dcf47cbbe08692d3f550cae7ee07eba4d6d6c",
+    "points_sha256": "532d6b31d31dd147023c1e745d99e304ebc4b53c1f95d911b873c5b08b2faa21",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "5b1bbcb42f4544c892381acdcb57c0de",
+    "file": "5b1bbcb42f4544c892381acdcb57c0de.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-140/5b1bbcb42f4544c892381acdcb57c0de.glb",
+    "mesh_sha256": "c34a0df9055766ace70f6ee48a5d396de65e58f1541bdcc0a7d7ef8fdabd8088",
+    "points_sha256": "02e89af7ba4fcd762395d2b3c540e0f5c63d53909cefe76db0dac69c283c8907",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "31e839cf0ec2485c80d495767d4ca3d9",
+    "file": "31e839cf0ec2485c80d495767d4ca3d9.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-030/31e839cf0ec2485c80d495767d4ca3d9.glb",
+    "mesh_sha256": "9c62516d33163ce4edb342c28203d63c8e54be7a59442496d5a7dc5fbdd4d1a3",
+    "points_sha256": "6b04b732dbdfbea4004ecb5a687ee4491b575a29720e74678b32f8729d496ac5",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "8c8cafaed9c04403b40982abb81dbe04",
+    "file": "8c8cafaed9c04403b40982abb81dbe04.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-124/8c8cafaed9c04403b40982abb81dbe04.glb",
+    "mesh_sha256": "0d7bfbf4b528d22c6451da6a125d3d2c5485a1dbea555bdaa7ef56ee85197570",
+    "points_sha256": "b653d0a3dc6ca7abbb27450dceecffe853e75847a2ce75810cb7158d410427dc",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "36ec2a3c75ed42c3aa673597dec72a1a",
+    "file": "36ec2a3c75ed42c3aa673597dec72a1a.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-095/36ec2a3c75ed42c3aa673597dec72a1a.glb",
+    "mesh_sha256": "47c56d970fef7bfbb75c6d8277fb3cb53d40b372fb9ca688bcea8c1d390d5982",
+    "points_sha256": "ff912b1c882add5e88f2f1e1b2695a07f14dab421d0ecc7e6d95cc497ad2647b",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "4c22dd9716364485ad172283e6bcec99",
+    "file": "4c22dd9716364485ad172283e6bcec99.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-143/4c22dd9716364485ad172283e6bcec99.glb",
+    "mesh_sha256": "c9deff5b4ff0bfe6366d6539d3467cbf4085b50b9ccf0fd65c9f9a5940ed5f60",
+    "points_sha256": "9fb9ea81a6150d1a818ff54290d16608324d8d52cb47612bce3a2423a1a342dd",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "d5b01ea213cd490eaf98d0fb68848306",
+    "file": "d5b01ea213cd490eaf98d0fb68848306.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-137/d5b01ea213cd490eaf98d0fb68848306.glb",
+    "mesh_sha256": "32116a1ff4d2bab0e7800b7c8fb63933423eaf43413a108f0fd3e6625d82e02a",
+    "points_sha256": "0f4e8084c7dad84a36f4d3c968d37cff0ef7b2bb8b876582fe983b7412e421f8",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "c43146abb4804be794b78ec0aa4dd1b8",
+    "file": "c43146abb4804be794b78ec0aa4dd1b8.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-112/c43146abb4804be794b78ec0aa4dd1b8.glb",
+    "mesh_sha256": "dd28ebfde849dfab6be514cbe91626229f525df02ce08f06307208c76e79dc49",
+    "points_sha256": "2e342d2ab20efff599e44f8e07e2dcf21e06535a64e492a717e15cc475e26ba0",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "1483a55c785d4379a25441681153cfce",
+    "file": "1483a55c785d4379a25441681153cfce.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-100/1483a55c785d4379a25441681153cfce.glb",
+    "mesh_sha256": "1832a985f38bbdc8270d3bccb4a830697f9f880e7808f138e035d5bc1bc54423",
+    "points_sha256": "a84769975d0dd7cb57169eed6c342ea1c649e1dee9a76e9ae5c5b0b8e5d4e26a",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "46743d3ca1f64dce8faee122bdcd55fb",
+    "file": "46743d3ca1f64dce8faee122bdcd55fb.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-111/46743d3ca1f64dce8faee122bdcd55fb.glb",
+    "mesh_sha256": "125aeaaf64d1727999df4ded91c8665faea373fe22440ff102dea4ef19fbe637",
+    "points_sha256": "b2b7d66d93aeb2e3ab9df16da4b018d5ebbb781daf4079246dd6d2f1aa136efb",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "2151e81af03d478f918511ffb1783218",
+    "file": "2151e81af03d478f918511ffb1783218.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-146/2151e81af03d478f918511ffb1783218.glb",
+    "mesh_sha256": "ecd0074bd8b76f4ba1e03e078e5ecb69c3d73612570f17d70e35ddef2efa1e9f",
+    "points_sha256": "5ecdb8e6b3df935f56a9ef927c9100dcaee2b07fbad9815b294cea74abc0e606",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "b08743c2c4734fb98a4e0a2f5767c318",
+    "file": "b08743c2c4734fb98a4e0a2f5767c318.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-045/b08743c2c4734fb98a4e0a2f5767c318.glb",
+    "mesh_sha256": "173695209a0ef603ade8f7840944f5b20c9a3d7b3df4127567210b05d202e985",
+    "points_sha256": "1e5aa568b54fb6570d6f21f126cfc4c3ab485559f4833df5e751dd6ca2ebc1e5",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "62a5b060acb9413cbc42746fb34f9e94",
+    "file": "62a5b060acb9413cbc42746fb34f9e94.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-060/62a5b060acb9413cbc42746fb34f9e94.glb",
+    "mesh_sha256": "945a9c88e0b558ea3ae807ad7320fcdfe5302f361815404868de78dd2e608980",
+    "points_sha256": "7b1a4a9a6568a33ae78c0d1eba9d63accbfe33e58628e4bc6a6b8a9d46d845ff",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "67407e8280974606a23d011c3da1fe1f",
+    "file": "67407e8280974606a23d011c3da1fe1f.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-114/67407e8280974606a23d011c3da1fe1f.glb",
+    "mesh_sha256": "902642d5681aa7adef43d4ccabc068898b0a5cd067afb113b33b06cc19da146e",
+    "points_sha256": "ccb4af35319fad3d625777d0b2a4ee65c19f7c6dcff43840605a53dd49b61936",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "b25366a78f134cc3bab5d990a32bfbc8",
+    "file": "b25366a78f134cc3bab5d990a32bfbc8.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-094/b25366a78f134cc3bab5d990a32bfbc8.glb",
+    "mesh_sha256": "b8656e421531bf7872d778274c0e22254b8b9527c0a26bf63a6eec72cef286b5",
+    "points_sha256": "a131e5cb38660bdc320d393bc9f3694197d2cb6502306b9fabab1d1d2d259742",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "2809ec55e0774a02b457030173debf3c",
+    "file": "2809ec55e0774a02b457030173debf3c.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-029/2809ec55e0774a02b457030173debf3c.glb",
+    "mesh_sha256": "be9c264a66359c11caf9c610b9eefc9e4750fa7ad510f398d07000a4deb1f0d3",
+    "points_sha256": "d4244a1d9447699aeaf781936ad7b7fae14d3642a56ae4e6e130750877eb43db",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "2536e6eb87f94e7195115c551db52e76",
+    "file": "2536e6eb87f94e7195115c551db52e76.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-062/2536e6eb87f94e7195115c551db52e76.glb",
+    "mesh_sha256": "fad84715e782d8d0f022b86e1585636c814c74fdf5dd79bfa2ff95dec30130c5",
+    "points_sha256": "f9ee565a861a5705b8518dfb28c2c7cbbd61d283321873b6ccc0141245aa82a1",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "af589f9836554a83b6837ec862059001",
+    "file": "af589f9836554a83b6837ec862059001.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-133/af589f9836554a83b6837ec862059001.glb",
+    "mesh_sha256": "130fad8842cabd818a9a1390951a9d603ea261c5364de708914c1bc235c29f19",
+    "points_sha256": "f624f469ba3743a6c5416aa314e7bc44b6813d900b904d5176aef76147e57ceb",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "ccd5c179aad548a09e6f7eb0d4142936",
+    "file": "ccd5c179aad548a09e6f7eb0d4142936.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-056/ccd5c179aad548a09e6f7eb0d4142936.glb",
+    "mesh_sha256": "26e146d669eca2192ce1e1c3b45482a5479faeed7d40f36df65b9d4f8babc0c1",
+    "points_sha256": "7acb79d5099bc8a194bb2c67169549e24fed9b369c0286611092de5e688ec346",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "c8778532ab804fc18cae6a0e20feffd3",
+    "file": "c8778532ab804fc18cae6a0e20feffd3.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-020/c8778532ab804fc18cae6a0e20feffd3.glb",
+    "mesh_sha256": "f31eba27aca83b8d78a48d454069b8294ffd2bf77b8c2a3a34ae5e2ee68cdccb",
+    "points_sha256": "d7750d2d9b639ab360ca40cb38d9a4f231bdc2aa32dd4d68a2700601cbcac77e",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "9424b9ed7e26414ab2871af263a2332c",
+    "file": "9424b9ed7e26414ab2871af263a2332c.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-011/9424b9ed7e26414ab2871af263a2332c.glb",
+    "mesh_sha256": "2a467b4ab24b0e41f09fc612fa56592d7fcd5f90a02e6eaf4ca71c2f4db5ff44",
+    "points_sha256": "91b5c6721c801e3ee8c96a5e6e041cdcd3e2cb1f8663232192bd4c2480c7719f",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "d11b693f56e0498bad0a3f573c870c83",
+    "file": "d11b693f56e0498bad0a3f573c870c83.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-033/d11b693f56e0498bad0a3f573c870c83.glb",
+    "mesh_sha256": "537674877150bec4d9cbc50e4ccd405e311df7f0ad868a997c99a1b4d3d32d36",
+    "points_sha256": "16a2334c1f374b01f4227d3c404bcfa91be7bcd71dad9cee2cadd75b54ebdbcf",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "b41057bfd40741e8a844102958a8c6d8",
+    "file": "b41057bfd40741e8a844102958a8c6d8.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-083/b41057bfd40741e8a844102958a8c6d8.glb",
+    "mesh_sha256": "f7d7607bf2eef04a2b5bd25c9d8d22f0259f674f82e831e29828f8a2a80b2e6e",
+    "points_sha256": "bfde6043e13a4995a7245fc4fab1358dbd5a054ff2f70b0d584bbb4aaad30f15",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "d19f348e381f4ffebac97b1296aa9a23",
+    "file": "d19f348e381f4ffebac97b1296aa9a23.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-101/d19f348e381f4ffebac97b1296aa9a23.glb",
+    "mesh_sha256": "f0da2047c7870e0d49156f15f661604e23725218958f8875e7f2ac34b0825e9d",
+    "points_sha256": "686fe85cc6ca55b6bf1e863f1cae3372b94c8e9aa9a86eadd6d95fda20692715",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "a8f18495f9b74f218e711eb37e5c55ee",
+    "file": "a8f18495f9b74f218e711eb37e5c55ee.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-099/a8f18495f9b74f218e711eb37e5c55ee.glb",
+    "mesh_sha256": "2ac5c3d60718b1e79c1e0556743c7186c82420732c02779c0514d8e05042d335",
+    "points_sha256": "5a5a0305900f4aa2ae0c7e48c97b409dbddaaad3b205ed0c0a5e962cdb88863a",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "8c0c8c0684c74b68962b212e6e1161e7",
+    "file": "8c0c8c0684c74b68962b212e6e1161e7.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-048/8c0c8c0684c74b68962b212e6e1161e7.glb",
+    "mesh_sha256": "0c3d7f121aec8e736943dcb0aa306da8db70e66135937021d53624420c4674d7",
+    "points_sha256": "1407a06939d2b677abad3c68a57e8b94fe286ee5dcafad8b80d4a7d03d4f67f2",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "bd71883bad9845389ef4ec2801004801",
+    "file": "bd71883bad9845389ef4ec2801004801.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-125/bd71883bad9845389ef4ec2801004801.glb",
+    "mesh_sha256": "6d143eaf1e2500210bc76832cd89fa3effa06fc505b02924d2b85c1fa8ab74a6",
+    "points_sha256": "834efbab544ed3756be4fe9bd028799522745bab4d7474c55c25048bade34d84",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "93b14c97d75b42f0ab103c37bd4de22d",
+    "file": "93b14c97d75b42f0ab103c37bd4de22d.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-127/93b14c97d75b42f0ab103c37bd4de22d.glb",
+    "mesh_sha256": "ce2060df6886d83b361642b4f289e359ec801e38c97d7ec3f948b1a0554cc939",
+    "points_sha256": "f466b325c3391d60a76831343b194bc1c7c4d136c9c66303a23b3014d80e1b1a",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "a938d9527eb14bdfb9efe45073fa9c18",
+    "file": "a938d9527eb14bdfb9efe45073fa9c18.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-004/a938d9527eb14bdfb9efe45073fa9c18.glb",
+    "mesh_sha256": "d8c31420474252f3c6b1f1cc4ab75aad745f41f6f0b2941471446c95c6840519",
+    "points_sha256": "c98fa2b6043f8f4b3659d12bdef262500dcfc499a551b3e670bd22b265f768ff",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "f50ece93d4684d77ad930d11c8e17f60",
+    "file": "f50ece93d4684d77ad930d11c8e17f60.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-093/f50ece93d4684d77ad930d11c8e17f60.glb",
+    "mesh_sha256": "ccbb8d652585818e018ad4330dd73d44400a337cd788bdc2cdc4fbc431824161",
+    "points_sha256": "d99038b1e973141697b1ca1d5e44615c6161b35f1020601ed9d804c5787fa4b2",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "de24547d5dce40a6b3f631f87f21b414",
+    "file": "de24547d5dce40a6b3f631f87f21b414.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-017/de24547d5dce40a6b3f631f87f21b414.glb",
+    "mesh_sha256": "38ee989ca0ea491cfcd104f80fc8839ecb26083c0a53f785026b3fc663749b9c",
+    "points_sha256": "311ba2b47e3f4b9d05361b74026770a3d15bd2a97e9b6fc9dd8f643fa096e821",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "c66ca5635c2a42178b7dc5c5e547c404",
+    "file": "c66ca5635c2a42178b7dc5c5e547c404.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-136/c66ca5635c2a42178b7dc5c5e547c404.glb",
+    "mesh_sha256": "bbecd14ec7ed69c0eba09938a4440369ec327189fec041813c4ccd82aa3c74c9",
+    "points_sha256": "71c9826ac3d52ff7f571b4489029943fec539092366ad0e1f17ec87457e28478",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "f2d60736e50849deb7658f72f1bdbf30",
+    "file": "f2d60736e50849deb7658f72f1bdbf30.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-077/f2d60736e50849deb7658f72f1bdbf30.glb",
+    "mesh_sha256": "fbb1db217c7baf772be58450b3d0d3dfa7be8eec1e67145d823f8b891272ee5a",
+    "points_sha256": "2b979ad03b500344a9cbb16e6150f2c3cb2ae756bda6e2f7c4766d371c47d02c",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "01d49e77147a4b57ba3f10eccb949803",
+    "file": "01d49e77147a4b57ba3f10eccb949803.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-000/01d49e77147a4b57ba3f10eccb949803.glb",
+    "mesh_sha256": "9bf7ed16668b0b594874b8d5745f393802f311269166789b0ce7a30f50ba0458",
+    "points_sha256": "14ac64bd0bdcfc3f14fe8f78f47ea6766e60c219583b255be14e66072505269f",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "34d4e9d8837549199658133c36643bf0",
+    "file": "34d4e9d8837549199658133c36643bf0.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-068/34d4e9d8837549199658133c36643bf0.glb",
+    "mesh_sha256": "75b67ce1a7b88ce467eb3370ec748f0b3299aa930a880b5f51031bb537d1196c",
+    "points_sha256": "f5853b5562e046e8b0c2f29ef3295274ae8ed3dab3e150dca25a35d705b4cf17",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "e1526b1163d84d6bbbf1f23a5f49f676",
+    "file": "e1526b1163d84d6bbbf1f23a5f49f676.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-139/e1526b1163d84d6bbbf1f23a5f49f676.glb",
+    "mesh_sha256": "2f6a050b2ae7927042aee0190d614d9a082d198970c15505b479a4dca570089a",
+    "points_sha256": "35223ae30a0b339083552d2da6272e688d3c60b62c6fb264b7114f328ec8c6f4",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "4b383818e58f48079a0a19a4add13637",
+    "file": "4b383818e58f48079a0a19a4add13637.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-128/4b383818e58f48079a0a19a4add13637.glb",
+    "mesh_sha256": "4a0443c3c0e8db69e268cf8fea42e9c648e4cae2af05a669b6f46f519f47ab74",
+    "points_sha256": "3aaf13ad18086737ecaa7483a830958213d15686d2b32f899c34ce9fa9fcdee6",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "9ab347bbf58d4d2db77cc1f0a44256eb",
+    "file": "9ab347bbf58d4d2db77cc1f0a44256eb.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-124/9ab347bbf58d4d2db77cc1f0a44256eb.glb",
+    "mesh_sha256": "6afb8d9abfdd01c497d3c3f41c5f969b539e70178e1f9ecd9a64274a93854eb7",
+    "points_sha256": "b8b4a33e8674d8567e1ece0c34eb424db77618b68f8bbb51e2d243e3a4b8ffaa",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "55eb947c070149288fe0ac2dcdde9f9e",
+    "file": "55eb947c070149288fe0ac2dcdde9f9e.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-068/55eb947c070149288fe0ac2dcdde9f9e.glb",
+    "mesh_sha256": "202df5826acfc1f7be93b04db7688c581fbfb1e1153ec795c82fac09ae27af36",
+    "points_sha256": "d30316445ef0a789a68efe4e6028723fb8b491e48d3b3420564bc708176cf52c",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "c1d6c8b90929452d9abbc530af66954d",
+    "file": "c1d6c8b90929452d9abbc530af66954d.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-132/c1d6c8b90929452d9abbc530af66954d.glb",
+    "mesh_sha256": "ebf44363e4a70bdadc0e582e7439dd2f8b5311e598e99cbd98ad470cf102b828",
+    "points_sha256": "053c57d27e97f0b8bfa470eac00ecffabb447cbaa18fa4d22bb6130223b9e1a3",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "fea999c1d8d64eb4a9c2bb1fac1e7d83",
+    "file": "fea999c1d8d64eb4a9c2bb1fac1e7d83.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-034/fea999c1d8d64eb4a9c2bb1fac1e7d83.glb",
+    "mesh_sha256": "51ab71106472321b565a47aabe281235e2c0801804bcee7694f729192913e22c",
+    "points_sha256": "35bee6ab2edde4233f126b7afe3d0fe8940645c19edea5a84188ea94bd906c9f",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "989ef5a7827d4ec5b4340a7493df0065",
+    "file": "989ef5a7827d4ec5b4340a7493df0065.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-094/989ef5a7827d4ec5b4340a7493df0065.glb",
+    "mesh_sha256": "b458de1483b9975bf461404101b8fd8fb059af25871f423c50667672d2dbb5cd",
+    "points_sha256": "c5211924978759221fc9d764ed904204356c9524997729cacc97888973b7d753",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "00fa1623636640d7a21e5a465de4e496",
+    "file": "00fa1623636640d7a21e5a465de4e496.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-000/00fa1623636640d7a21e5a465de4e496.glb",
+    "mesh_sha256": "7e5afa4da12b239e5a69b4b26221a725c531f6f0a326b4d153d6c38f65b7fb8d",
+    "points_sha256": "2d8c6ce149e4329aa398b0c9c425b371688e5126a826a0518eb11c4f95b170a8",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "52c9e26b0ad943c7a1d190d4cf3a2903",
+    "file": "52c9e26b0ad943c7a1d190d4cf3a2903.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-030/52c9e26b0ad943c7a1d190d4cf3a2903.glb",
+    "mesh_sha256": "5f306003bf644673cb65b779064304a62c0cf3752c872d34d8fc33d6b624814e",
+    "points_sha256": "ef47677b70d89a8638c3c14f7dc69a7da0a8856a9695e7f0ec346dc44cba830d",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "8fe2c19e20084f48a1fc52545b8b6a87",
+    "file": "8fe2c19e20084f48a1fc52545b8b6a87.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-050/8fe2c19e20084f48a1fc52545b8b6a87.glb",
+    "mesh_sha256": "4b370e05568cc3802ee826a2b927034ba006d1cd5a8a86ac882b7f5a107bf410",
+    "points_sha256": "6c823e91548fe685c27257df04f16eb5b54f12f1d01c7f124ccda968b289ea10",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "9166cdc0275e4310a1ea40a5afe95b5d",
+    "file": "9166cdc0275e4310a1ea40a5afe95b5d.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-124/9166cdc0275e4310a1ea40a5afe95b5d.glb",
+    "mesh_sha256": "438b22484ed0b108fb23559041afc879c2f36d05fe920e1d806240e7600b2696",
+    "points_sha256": "b41b43e5fae56cdfbd841f3981e128ecc508b23ae51017d46b2f6b736b6b4bef",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "36c0e0164dff4dfbb3bbd07e736074c8",
+    "file": "36c0e0164dff4dfbb3bbd07e736074c8.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-126/36c0e0164dff4dfbb3bbd07e736074c8.glb",
+    "mesh_sha256": "13d0667c465046b2a33ffbb67046a131c079086634eb7537206f1312b1174b50",
+    "points_sha256": "f8982c13fb2f8cde52199c1f38ba6dad59fa343b58bcb9391b228afcd402512b",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "db42f9d00cc941c6815c8d8b2d5a67d0",
+    "file": "db42f9d00cc941c6815c8d8b2d5a67d0.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-065/db42f9d00cc941c6815c8d8b2d5a67d0.glb",
+    "mesh_sha256": "54d458971bebf75ede76eb78442a786ec403c9a41590697229c56e18c4ebb531",
+    "points_sha256": "7b51e2d8e1eb8e93b42f5c08b38b2084bd1876b587e914153ada2a91b5dd5bac",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "6b47d0ab0b1644c3a700cd853308500c",
+    "file": "6b47d0ab0b1644c3a700cd853308500c.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-128/6b47d0ab0b1644c3a700cd853308500c.glb",
+    "mesh_sha256": "8b8065743a4da01a4c11f62cad4695a5ebc9efcbf64fc02aa3703302c1319d17",
+    "points_sha256": "b2c4bd62a179d7d9724686c8992959fe68ed959d2474776ca27a8d972782fa23",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "ea80a8ffde494fb59f015565e4c16e2a",
+    "file": "ea80a8ffde494fb59f015565e4c16e2a.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-141/ea80a8ffde494fb59f015565e4c16e2a.glb",
+    "mesh_sha256": "5fd682425da241fd4bfd6d280a0318e035ce2d91ae704bd08eea1e01dc4fdd97",
+    "points_sha256": "23ff4814938c542868dfba8e9d82598d38297cee3cf5839f1cb64fe6b166fff2",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "525b1f5b6fbc47f38f66dfe5ab67934f",
+    "file": "525b1f5b6fbc47f38f66dfe5ab67934f.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-103/525b1f5b6fbc47f38f66dfe5ab67934f.glb",
+    "mesh_sha256": "3f94682d15f9f7fee7332088fd33b079d608041bd2c56f5e97d5dd50b033d404",
+    "points_sha256": "34e26e34dbf4259e9081d2191bf8d687ae30fd1991bacb0788505d42ca195ddb",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "cad29468e5b04ebc8e4703496a051d9f",
+    "file": "cad29468e5b04ebc8e4703496a051d9f.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-058/cad29468e5b04ebc8e4703496a051d9f.glb",
+    "mesh_sha256": "c20950991a140da39aac582b3b8b013fd6390ebfe557710fba14707cbddab26d",
+    "points_sha256": "9b6dc6328967d49d3ae92d6032db8086255f53b9b4940298fe390d7d23420d00",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "be087ed2be034331a2b16d479c35736d",
+    "file": "be087ed2be034331a2b16d479c35736d.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-047/be087ed2be034331a2b16d479c35736d.glb",
+    "mesh_sha256": "140a4bab1450abcfb4ca2e7c4f53d877310ae5d7120f642d721c75436c3d274d",
+    "points_sha256": "944285903449a3b97ab50d12b62d85e3460f5b7ea2b14f468e2e0e5017b6c497",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "53a6eb7ccf054aa2a378dd7ec08f88fe",
+    "file": "53a6eb7ccf054aa2a378dd7ec08f88fe.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-124/53a6eb7ccf054aa2a378dd7ec08f88fe.glb",
+    "mesh_sha256": "41acd9bee7bf05fbcdd813fad965027b01b8801d6a21ca1c22eb2178c8842988",
+    "points_sha256": "311ccd803a9f8ec48d503c0a69cb7dbd61b9fc5b4b57fee9d55e493032b60747",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "1eb75ee3ccab43459accb4a4138915b2",
+    "file": "1eb75ee3ccab43459accb4a4138915b2.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-137/1eb75ee3ccab43459accb4a4138915b2.glb",
+    "mesh_sha256": "da9c7c9336554e51db1d4f2caea250ceb6fa9932a512a0439124a5861e05b58d",
+    "points_sha256": "96d67e82e811a4ca25c2d26de55a30c94cc9971126d29de025f39b384162feef",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "7df79a6d21d3460abfdb8a93b768a6be",
+    "file": "7df79a6d21d3460abfdb8a93b768a6be.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-133/7df79a6d21d3460abfdb8a93b768a6be.glb",
+    "mesh_sha256": "4cdbc155f4ce745054fddd397984a81f01e8c137785138fc440eb32a548dc473",
+    "points_sha256": "0548a121e30cf029dbd595cdc33fe416de4ab95fc6d3cf8a8a9e41ef2f4b8297",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "8015ed2937b6422b9f7092a096c9453b",
+    "file": "8015ed2937b6422b9f7092a096c9453b.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-116/8015ed2937b6422b9f7092a096c9453b.glb",
+    "mesh_sha256": "a5da680645dac058e3f1da29f06297914b5a61761adadfae51658649d8e42859",
+    "points_sha256": "842d0d61d6f8af971758d749139a56c8235234eef02f2d536fb5072bfeb39498",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  },
+  {
+    "id": "d88dffc380904f1295728efa4499bcd4",
+    "file": "d88dffc380904f1295728efa4499bcd4.npy",
+    "source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-107/d88dffc380904f1295728efa4499bcd4.glb",
+    "mesh_sha256": "7e365f43c2419f9c3d1e7ed98438fc64d53dfe8642a6bd9f462345cab3228f4f",
+    "points_sha256": "1ce57041f405dbb7ae697054930e55c1354c840869ec3f72c6714f6de741272f",
+    "label_source": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/lvis-annotations.json.gz"
+  }
+]
